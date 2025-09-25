@@ -2,6 +2,7 @@
 Thrilled to share my learning journey of building this dashboard—excited to keep growing and exploring!
 <br>
 Key Insights I Added:
+ <br>
 1.Filter data by month to track sales trends over time
 <br>
 2.Identify top‑selling mobile models
